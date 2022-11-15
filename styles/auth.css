@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.auth-wrapper {
+    padding-top: 180px;
+}
+
+form {
+    display: block;
+    margin: auto;
+    max-width: 400px;
+    text-align: center;
+}
